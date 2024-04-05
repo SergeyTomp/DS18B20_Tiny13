@@ -1,0 +1,12 @@
+.idea/*
+*.xml
+*.iml
+*.eep
+*.elf
+*.les
+*.lst
+*.lss
+*.map
+*.o
+*.o.d
+*.sym
